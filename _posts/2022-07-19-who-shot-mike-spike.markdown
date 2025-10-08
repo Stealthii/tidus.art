@@ -3,7 +3,7 @@ layout: post
 title:  "Who shot Mike Spike"
 date:   2022-07-19 03:05:00 +0100
 categories: art tidus
-image: /assets/images/tidus/Who shot Mike Spike.webp
+image: /assets/images/tidus/wsms_preview.webp
 ---
 ![Who shot Mike Spike](/assets/images/tidus/Who shot Mike Spike.webp)
 **Never Become A Traitor**
