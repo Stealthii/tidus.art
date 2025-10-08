@@ -10,7 +10,7 @@ _Rhys Beoulve & Tidus Herboren_
 
 {%
   include embed/audio.html
-  src='/assets/music/kindling.mp3'
-  types='ogg'
+  src='/assets/music/kindling.ogg'
+  types='mp3'
   title='The Memory Part 3 - Kindling'
 %}

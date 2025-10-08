@@ -215,6 +215,10 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  # Source files
+  - "*.flac"
+  - "*.png"
+  - "*.jpeg"
 
 jekyll-archives:
   enabled: [categories, tags]
