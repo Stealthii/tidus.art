@@ -4,7 +4,7 @@ title:  "Who shot Mike Spike"
 date:   2022-07-19 03:05:00 +0100
 categories: art tidus
 ---
-![Who shot Mike Spike](/assets/images/tidus/Who shot Mike Spike.png)
+![Who shot Mike Spike](/assets/images/tidus/Who shot Mike Spike.webp)
 **Never Become A Traitor**
 *by Tide Mason*
 

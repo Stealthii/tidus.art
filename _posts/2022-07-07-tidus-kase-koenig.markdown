@@ -4,7 +4,8 @@ title:  "Tidus Kase-Koenig"
 date:   2022-07-07 20:07:39 +0100
 categories: art tidus
 ---
-![Tidus Kase-Koenig (30) - early career](/assets/images/tidus/Tidus Kase-Koenig (30) - early career.png)
+![Tidus Kase-Koenig (30) - early career](/assets/images/tidus/Tidus Kase-Koenig (30) - early career.webp)
+_Tidus Kase-Koenig (30) - early career_
 
 a brilliant, but fog minded Vulpkanin, graduated by the skin of his teeth from the NT Engineering corps. Throughout childhood and early adult life, he was always prone to peer-pressure and mischief, getting into situations and trouble often. Struggling with the need for validation through others, and hopeful self-worth, the engineering corps was the first stable placement he landed on.
 
