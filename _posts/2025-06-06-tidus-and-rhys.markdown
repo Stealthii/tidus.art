@@ -7,3 +7,10 @@ image: /assets/images/tidus/p6pAzNf_preview.webp
 ---
 ![Tidus & Rhys](/assets/images/tidus/p6pAzNf.webp)
 _Rhys Beoulve & Tidus Herboren_
+
+{%
+  include embed/audio.html
+  src='/assets/music/kindling.mp3'
+  types='ogg'
+  title='The Memory Part 3 - Kindling'
+%}
