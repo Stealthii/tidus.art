@@ -8,6 +8,13 @@ image: /assets/images/tidus/mVXLBky_preview.webp
 ![Who shot Mike Spike](/assets/images/tidus/mVXLBky.webp)
 _Who shot Mike Spike_
 
+{%
+  include embed/audio.html
+  src='/assets/music/bandit.ogg'
+  types='mp3'
+  title='Who shot Mike Spike'
+%}
+
 
 **Never Become A Traitor**
 *by Tide Mason*
