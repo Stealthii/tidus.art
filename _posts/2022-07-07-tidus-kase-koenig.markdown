@@ -3,6 +3,7 @@ layout: post
 title:  "Tidus Kase-Koenig"
 date:   2022-07-07 20:07:39 +0100
 categories: art tidus
+image: /assets/images/tidus/Tidus Kase-Koenig (30) - early career.webp
 ---
 ![Tidus Kase-Koenig (30) - early career](/assets/images/tidus/Tidus Kase-Koenig (30) - early career.webp)
 _Tidus Kase-Koenig (30) - early career_
