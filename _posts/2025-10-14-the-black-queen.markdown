@@ -21,7 +21,7 @@ Off-duty again, Tara walked through the doors to Train's bar, whose familiar rac
 
 "Training engineers, remember?" she returned, sliding into the seat opposite.
 
-A dark-furred vulpkanin, Fell frowned into his own drink. A quiet kitsune girl with three long tails sat beside him, watching the room with placid eyes.
+A skull-coyote vulpkanin, Fell frowned into his own drink, the ghost-lights in his sockets a dim, steady glow. A quiet kitsune girl with three long tails sat beside him, watching the room with placid eyes.
 
 "I was never any good at engineering," Fell rumbled, picking up the thread of her comment. It wasn't a complaint, but a statement of fact.
 
@@ -31,7 +31,7 @@ Fell shook his head, a wry smile touching his muzzle. "Decisions, not knowledge.
 
 "Oh," Tara said flatly. "I'm playing, then."
 
-Fell blinked, his ears twitching. "I mean... do you want to?"
+Fell blinked, the lights in his sockets flickering once. "I mean... do you want to?"
 
 She just nodded, pushing her king's pawn forward two squares without a word.
 
@@ -45,7 +45,7 @@ Her own hand trembled as she reached for her queen.
 
 Tara didn't answer, her gaze fixed on the board. Fell’s knight advanced, a predator closing in on her back line. She castled king-side, in a move of desperation.
 
-Fell looked confused. "Tara, you can take that back. I've got you in a triple fork. You just... ignored it."
+Fell looked confused, the ghost-lights in his eyes brightening slightly. "Tara, you can take that back. I've got you in a triple fork. You just... ignored it."
 
 "You have to live with your mistakes," she said, her eyes not leaving the board. "If I've learned anything this week, it's that."
 
@@ -71,7 +71,7 @@ Fell slid his rook to challenge hers. A faint smile touched the corners of Tara'
 
 She knew it was over, taking his rook with her king in protest.
 
-Fell smiled as he slid the black queen forward. "Mate," he said softly.
+Fell smiled, his eyes dimmed as he slid the black queen forward. "Mate," he said softly.
 
 ---
 
@@ -79,7 +79,7 @@ A strange sense of calm settled over Tara. She pulled down the bandana covering 
 
 "That's another win," the kitsune murmured to Fell.
 
-"Well," Tara began, her voice even. "I kept going. Let's see..." She began arranging her captured pieces in a neat line. Fell tilted his head, curious. "That's me," she said, tapping the white king. Her gaze was locked on the pieces. "Here are the CMO and the Mystagogue who quit on me," she added, her fingertips brushing against the two lost bishops. Fell's ears drooped.
+"Well," Tara began, her voice even. "I kept going. Let's see..." She began arranging her captured pieces in a neat line. Fell tilted his head, curious. "That's me," she said, tapping the white king. Her gaze was locked on the pieces. "Here are the CMO and the Mystagogue who quit on me," she added, her fingertips brushing against the two lost bishops. Fell's ears drooped, the light in his sockets dimming to an ember.
 
 "The two engineers who turned to dust in the crystal," she continued, nodding at a pair of pawns. The kitsune girl pulled her hood up, obscuring her face.
 
@@ -91,7 +91,7 @@ Tara turned back to the table, her expression suddenly, jarringly cheerful. "So 
 
 The other two exchanged a look of bewilderment.
 
-"Long," Fell finally replied. "My energy's sapped. I think I'm going to... sleep for a bit." He rose from the booth, nodding to them both before weaving his way through the crowded bar.
+"Long," Fell finally replied, his voice strained. He pushed himself up from the table, swaying slightly and placing a hand on its edge to steady himself. "My energy's sapped. I think I'm going to... sleep for a bit." The lights in his eyes flickered weakly as he gave a slow nod to them both before weaving his way through the crowded bar.
 
 Tara moved into the seat he'd vacated, next to the kitsune. They sat in an awkward silence. "I didn't catch your name," Tara said, gesturing to the purple-tinted suit the girl wore that matched her own, albeit tailored to accommodate three elegant tails.
 
