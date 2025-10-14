@@ -8,6 +8,13 @@ tags: [tara, chess, train, in-game, floof]
 ![Tara Chess](/assets/images/tara/chess_draft.webp)
 _Tara Mason playing chess against Fell Gratia_
 
+{%
+  include embed/audio.html
+  src='/assets/music/subtle_body.ogg'
+  types='mp3'
+  title='Fila Brazillia - Subtle Body'
+%}
+
 Off-duty again, Tara walked through the doors to Train's bar, whose familiar racket promised to drown out the silence in her head. A gnawing anxiety accompanied an unfamiliar loneliness that had become her shadow this past week. As she grabbed a vodka tonic from the bar, she spotted Fell across the crowded room and navigated towards his table.
 
 "Where have you been?" he asked as she approached.
