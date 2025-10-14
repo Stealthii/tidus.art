@@ -15,17 +15,17 @@ _Tara Mason playing chess against Fell Gratia_
   title='Fila Brazillia - Subtle Body'
 %}
 
-Off-duty again, Tara walked through the doors to Train's bar, whose familiar racket promised to drown out the silence in her head. A gnawing anxiety accompanied an unfamiliar loneliness that had become her shadow this past week. As she grabbed a vodka tonic from the bar, she spotted Fell across the crowded room and navigated towards his table.
+Off-duty again, Tara walked through the doors to Train's bar, whose familiar racket promised to drown out the silence in her head. A gnawing anxiety accompanied an unfamiliar loneliness that had become her shadow this past week. As she grabbed a vodka tonic from the bar, she spotted Fell across the crowded room.
 
 "Where have you been?" he asked as she approached.
 
-"Training engineers, remember?" she returned, sliding into the booth.
+"Training engineers, remember?" she returned, sliding into the seat opposite.
 
-A dark-furred vulpkanin, Fell frowned into his own drink. A quiet kitsune girl with two long tails sat beside him, watching the room with placid eyes.
+A dark-furred vulpkanin, Fell frowned into his own drink. A quiet kitsune girl with three long tails sat beside him, watching the room with placid eyes.
 
 "I was never any good at engineering," Fell rumbled, picking up the thread of her comment. It wasn't a complaint, but a statement of fact.
 
-Tara took a long, sharp swallow of her vodka tonic. "It's not about being 'good' at it," she replied, her voice rough. "It's about making a decision when everything's on fire and you have no good options."
+Tara took a long swallow of her drink. "It's not about being 'good' at it," she replied, clearing her throat. "It's about making a decision when everything's on fire and you have no good options."
 
 Fell shook his head, a wry smile touching his muzzle. "Decisions, not knowledge. Right." He gestured to a half-arranged chessboard on the table. "Speaking of which." He began setting up the remaining pieces.
 
@@ -45,7 +45,7 @@ Her own hand trembled as she reached for her queen.
 
 Tara didn't answer, her gaze fixed on the board. Fell’s knight advanced, a predator closing in on her back line. She castled king-side, in a move of desperation.
 
-Fell looked confused. "Tara, you can take that back. I've got you in a triple fork. You just.. ignored it."
+Fell looked confused. "Tara, you can take that back. I've got you in a triple fork. You just... ignored it."
 
 "You have to live with your mistakes," she said, her eyes not leaving the board. "If I've learned anything this week, it's that."
 
@@ -69,13 +69,13 @@ He took the last bishop, putting her in check. She held her king, the plastic ag
 
 Fell slid his rook to challenge hers. A faint smile touched the corners of Tara's eyes. She moved her king out, baiting the trap. Before her hand had even settled back on the table, Fell’s fingers were on his rook. He captured hers instantly. She just stared.
 
-She knew it was over. She took his rook with her king.
+She knew it was over, taking his rook with her king in protest.
 
-Fell smiled sadly. He slid the black queen forward. "Mate," he said softly.
+Fell smiled as he slid the black queen forward. "Mate," he said softly.
 
 ---
 
-A strange sense of calm settled over Tara. She pulled down the bandana covering her forehead and drained the rest of her drink.
+A strange sense of calm settled over Tara. She pulled down the bandana covering her face and drained the rest of her drink.
 
 "That's another win," the kitsune murmured to Fell.
 
@@ -93,7 +93,7 @@ The other two exchanged a look of bewilderment.
 
 "Long," Fell finally replied. "My energy's sapped. I think I'm going to... sleep for a bit." He rose from the booth, nodding to them both before weaving his way through the crowded bar.
 
-Tara moved into the seat he'd vacated, next to the kitsune. They sat in an awkward silence. "I didn't catch your name," Tara said, gesturing to the matching purple-tinted suit the girl wore, tailored to accommodate two elegant tails.
+Tara moved into the seat he'd vacated, next to the kitsune. They sat in an awkward silence. "I didn't catch your name," Tara said, gesturing to the purple-tinted suit the girl wore that matched her own, albeit tailored to accommodate three elegant tails.
 
 "...Rin," she replied quietly.
 
@@ -101,16 +101,20 @@ Tara moved into the seat he'd vacated, next to the kitsune. They sat in an awkwa
 
 Rin seemed nervous. "...Just Rin."
 
-Tara nodded. "I'm..." She looked down at her hands, one of flesh and blood, the other of gleaming chrome. A flood of memories—from the past week, from a lifetime before—washed over her. Her eyes grew moist. She looked back up at Rin, her expression one of raw vulnerability. "Nat."
+"Just Rin," Tara nodded. "I'm..." She looked down at her hands, one of flesh and blood, the other a worn, scratched chrome. A flood of memories—not from the past week, but from a lifetime before—washed over her. Her eyes grew moist. She looked back up at Rin, her expression one of raw vulnerability. "Nat."
 
-A soft smile graced Rin's lips. "It's nice to meet you, Nat."
+A soft smile graced Rin's lips. "Well, nice to meet you Nat."
 
 It was nothing compared to the beam that shone back at her.
 
-"Likewise," Nat replied. Her gaze drifted back to the board. Her metal fingers closed around the black queen, lifting it from the square where it had ended her king. *Was it all just the price to have her into my life?* She sighed, a sound lost in the bar's noise, and slipped the piece into her pocket. It felt heavier than it should. *I have to make it worth it. Before I'm taken too.*
+"Likewise," Nat replied. Her gaze drifted back to the board. Her metal fingers closed around the black queen, lifting it from the square where it had ended her king. *Was it all just the price to have her in my life?* She sighed, a sound lost in the bar's noise, and slipped the piece into her pocket. It felt heavier than it should. *I have to make it worth it. Before I'm taken too.*
 
 
 ### Game
+
+This game was played on the in-game chessboard on Floof Station, aboard Train Sentipode. Dialogue has been changed where appropriate to fit novelization.
+
+Here is the [chess.com analysis](https://www.chess.com/analysis/game/pgn/3hD79TDNYN/), and below is the raw PGN notation.
 
 ```chess
 [Site "Train Sentipode NTED-NX-569"]
