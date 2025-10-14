@@ -2,7 +2,8 @@
 layout: post
 title:  "Tidus Kase-Koenig"
 date:   2022-07-07 20:07:39 +0100
-categories: art tidus
+categories: [reference]
+tags: [art, tidus, bio]
 image: /assets/images/tidus/crE2Aoa_preview.webp
 ---
 ![Art](/assets/images/tidus/crE2Aoa.webp)

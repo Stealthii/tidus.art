@@ -2,7 +2,8 @@
 layout: post
 title:  "Who shot Mike Spike"
 date:   2022-07-19 03:05:00 +0100
-categories: art tidus
+categories: [story]
+tags: [story, paradise, tidus, art, in-game]
 image: /assets/images/tidus/mVXLBky_preview.webp
 ---
 ![Who shot Mike Spike](/assets/images/tidus/mVXLBky.webp)
