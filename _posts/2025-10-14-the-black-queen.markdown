@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Black Queen"
+title:  "The Black Queen [DRAFT]"
 date:   2025-10-14 15:35:00 +0100
 categories: [story]
 tags: [tara, chess, train, in-game, floof]
