@@ -15,19 +15,19 @@ _Tara Mason playing chess against Fell Gratia_
   title='Fila Brazillia - Subtle Body'
 %}
 
-Off-duty again, Tara pushed through the airlock to Train's bar, whose unfamiliar racket promised to drown out the now familiar silence in her head. A gnawing anxiety accompanied an unusual loneliness had become her shadow this past week. As she grabbed a vodka tonic from the bar, she spotted Fell across the crowded room.
+Off-duty once more, Tara slipped through the airlock into Train's bar, letting the chaotic clamor wash over her and smother the silence that haunted her mind. Anxiety and a strange, persistent loneliness had become her constant companions this week. She claimed a vodka tonic from the bar, her eyes catching Fell's shape across the sea of strangers.
 
 "Where have you been?" he asked as she approached.
 
 "Training engineers, remember?" she returned, sliding into the seat opposite.
 
-A skull-coyote vulpkanin, Fell frowned into his own drink, the ghost-lights in his sockets a dim, steady glow. A quiet kitsune girl with three long tails sat beside him, watching the room with placid eyes.
+Fell, a skull-coyote vulpkanin, brooded over his drink, the ghost-lights in his sockets casting a muted, steady glow. Beside him, a silent kitsune girl with three sweeping tails surveyed the room with tranquil, unreadable eyes.
 
 "I was never any good at engineering," Fell rumbled, picking up the thread of her comment. It wasn't a complaint, but a statement of fact.
 
-Tara took a long swallow of her drink. "It's not about being 'good' at it," she replied, clearing her throat. "It's about making a decision when everything's on fire and you have no good options."
+Tara took a long, bracing swallow. "It's never about being 'good' at it," she said, voice rough. "It's about choosing when everything's burning and every option is the wrong one."
 
-Fell shook his head, a wry smile touching his muzzle. "Decisions, not knowledge. Right." He gestured to a half-arranged chessboard on the table. "Speaking of which." He began setting up the remaining pieces.
+Fell shook his head, a crooked smile flickering across his muzzle. "So it's decisions, not knowledge. Got it." He nodded toward the half-set chessboard. "On that note." He started arranging the scattered pieces.
 
 "Oh," Tara said flatly. "I'm playing, then."
 
@@ -43,7 +43,7 @@ Her own hand trembled as she reached for her queen.
 
 "You alright over there?" the kitsune asked, her voice soft as velvet.
 
-Tara didn’t answer, her eyes locked on the chessboard in front of her. Fell’s knight moved forward, closing in on her back line like a predator. Tara castled king-side, desperation evident in her brisk actions.
+Tara stayed silent, her gaze fixed on the battlefield of black and white. Fell’s knight prowled closer, a silent threat to her back line. She castled king-side, her movements sharp with urgency.
 
 Fell looked confused, the ghost-lights in his eyes brightening slightly. "Tara, you can take that back. I've got you in a triple fork. You just... ignored it."
 
@@ -53,7 +53,7 @@ Fell's concern was a weight in the air. "Do you want to talk about it?"
 
 She felt his gaze on her but refused to meet it, offering only a slight shrug. "Maybe later." she said, as she watched him take her queen.
 
-Tara's play grew more erratic. She sacrificed a bishop and a rook for minor positional gains, a frantic, disorganized assault. Fell queen-side castled into a fortress. More of her pieces vanished from the board. When one of Fell's rooks slid onto her back rank, she captured it with her own without a second thought, shrugging as if it were meaningless.
+Tara’s moves turned wild, sacrificing bishop and rook for scraps of ground in a desperate, scattered attack. Fell castled queen-side, building a fortress as her army dwindled. When his rook invaded her back rank, she snatched it up, barely reacting, as if the loss meant nothing at all.
 
 She missed the next trap completely, pushing a pawn forward absently. She muttered a curse in quiet Cygni Standard.
 
@@ -67,15 +67,15 @@ Fell leaned forward, his brow furrowed. "Are you sure this is about the game, Ta
 
 He took her last bishop, putting her in check. She gripped her king tightly, the plastic pressing against her trembling hand, and slid it wordlessly into the corner.
 
-Fell slid his rook to challenge hers. A faint smile touched the corners of Tara's eyes. She moved her king out, baiting the trap. Before her hand had even settled back on the table, Fell’s fingers were on his rook. He captured hers instantly. She just stared.
+Fell advanced his rook, challenging hers. A ghost of a smile flickered at the corners of Tara's eyes as she nudged her king forward, inviting the inevitable. Fell’s hand darted for his rook, claiming hers in a heartbeat. Tara only watched, unmoving.
 
-She knew it was over, taking his rook with her king in protest.
+She knew the end had come, but still claimed his rook with her king—a final, defiant gesture.
 
 Fell smiled, his eyes dimmed as he slid the black queen forward. "Mate," he said softly.
 
 ---
 
-A strange sense of calm settled over Tara. She pulled down the bandana covering her face and drained the rest of her drink.
+A peculiar calm washed over Tara. She tugged her mask down and finished her drink in one long pull.
 
 "That's another win," the kitsune murmured to Fell.
 
@@ -93,7 +93,7 @@ The other two exchanged a look of bewilderment.
 
 "Long," Fell finally replied, his voice strained. He pushed himself up from the table, swaying slightly and placing a hand on its edge to steady himself. "My energy's sapped. I think I'm going to... sleep for a bit." The lights in his eyes flickered weakly as he gave a slow nod to them both before weaving his way through the crowded bar.
 
-Tara slid into the seat Fell had vacated, now next to the kitsune. An awkward silence followed. Tara broke it, gesturing to the girl’s suit, which was a purple-tinted version matching Tara’s own but tailored for three elegant tails. "I didn’t catch your name," she said.
+Tara slipped into Fell’s empty seat beside the kitsune, the silence between them thick and uncertain. She broke it with a nod at the girl’s suit—a purple-tinted twin to her own, but cut for three graceful tails. "I didn’t catch your name," she ventured.
 
 "...Rin," she replied quietly.
 
@@ -101,7 +101,7 @@ Tara slid into the seat Fell had vacated, now next to the kitsune. An awkward si
 
 Rin seemed nervous. "...Just Rin."
 
-"Just Rin," Tara nodded. "I'm..." She looked down at her hands, one flesh and blood, the other battered chrome. She blinked back tears, then looked up, defenseless. "Nat," she said softly.
+"Just Rin," Tara echoed, nodding. "I'm..." She glanced at her mismatched hands—one living, one battered chrome. Tears threatened, but she met Rin’s gaze, unguarded. "*Nat,*" she whispered.
 
 A soft smile graced Rin's lips. "Well, nice to meet you Nat."
 
@@ -113,41 +113,41 @@ It was nothing compared to the beam that shone back at her.
 
 Rin rubbed the back of her neck. "Well, I needed a break from the last shift," she sighed. "What a shit show."
 
-Nat nodded a little, as she watched a courier walk over, handing Rin a small, flat parcel. "It's a living, some would say."
+Nat gave a small nod, watching as a courier threaded through the crowd to hand Rin a slim, flat parcel. "Some would call it a living," she said.
 
-She tore it open, her expression replaced by a wide, sharp grin as she revealed a brand-new, gleaming butcher's cleaver. "Ooh," Rin laughed, testing its weight.
+Rin tore the package open, her face splitting into a wolfish grin as she brandished a gleaming new butcher’s cleaver. "Ooh," she laughed, weighing it in her hand.
 
 "Fan of yours?" Nat asked, spinning her mechanical hand in a small circle.
 
 Rin whispered, almost to herself, "*Nice try, Kurogane...*" She glanced back at Nat and tucked the cleaver away. "Not important."
 
-"Nothing is," Nat said, her gaze returning to the empty glass.
+"Nothing really is," Nat murmured, her eyes drifting back to her empty glass.
 
 "Importance is a variable thing."
 
-"It's self-derived," Nat shrugged, looking at the chessboard. "As is enjoyment. We're just pieces anyway."
+"It’s all self-made," Nat shrugged, glancing at the chessboard. "Enjoyment too. In the end, we’re just pieces on someone else’s board."
 
 Rin nodded, her eyes turning to the viewport. "To be used and played."
 
-"Yep," Nat affirmed. She watched Rin stare out the window for a moment before speaking again. "Fell's an odd sort. Still can't place him."
+"Yep," Nat agreed. She watched Rin gaze out the window, then added, "Fell’s a strange one. I still can’t figure him out."
 
 "Hasn't stuck a knife in my stomach yet," Rin replied, her grin returning. "So that's a good vote so far."
 
-Nat snorted. "Yeah... funny, this game."
+Nat let out a short laugh. "Yeah... this game’s a real joke sometimes."
 
 "What, chess?"
 
-"Yeah. Doesn't matter how you play it. Someone always loses. Sometimes both."
+"Yeah. No matter how you play, someone loses. Sometimes, everyone does."
 
 Rin shrugged. "That's the point."
 
-"Even the winner didn't get by without a bit of loss on the side," Nat mused, gesturing to the scattered pieces. "Was it all worth it, though?"
+"Even the winner walks away missing something," Nat mused, gesturing at the scattered pieces. "Was any of it worth it, though?"
 
 "Depends on who you ask."
 
-A flush crept up Nat's neck, her cheeks warming. Rin blinked, noticing the sudden color. "Is there... a reason you're beginning to match your hair?"
+A blush crept up Nat's neck, coloring her cheeks. Rin noticed, her eyes widening. "Is there a reason you’re starting to match your hair?"
 
-Nat's eyes narrowed, her voice dropping. "*I just wonder, if I'd never played, where people would be...*" She trailed off.
+Nat's eyes narrowed, her voice dropping to a whisper. "*I just wonder... if I'd never played, where would everyone be now?*" Her words faded into the noise.
 
 Rin looked away. "That's the question, isn't it?" she said quietly. "Shit advice, but I choose not to care about much. Makes it easier to cut and run."
 
@@ -155,29 +155,29 @@ Nat just looked at her.
 
 "Sometimes literally," Rin added, a fleeting glance at where she'd stowed the cleaver.
 
-"That's what I've done my whole life," Nat said, her voice hollow. "Didn't stop me feeling the pain of what came before..."
+"That’s been my whole life," Nat said, her voice empty. "But it never stopped the pain from before."
 
-Rin's gaze fell to her own tails as she frowned, pulling out a cigarette and lighting it. As the smoke curled around her, Nat reached forward and lifted the black queen from the board. She held it in her palm, thumb tracing its contours.
+Rin’s eyes dropped to her tails as she frowned, lighting a cigarette. Smoke curled around her as Nat reached for the black queen, cradling it in her palm and tracing its edges with her thumb.
 
 "*I hope it was all worth it...*" she whispered to herself, her voice cracking. "*Until I'm taken too.*"
 
 Rin looked at her cigarette packet. "Got three left..." She offered one to Nat, but she shook her head, looking at the door.
 
-"Something I never got into." She looked up, meeting Rin's eyes. "I hope we chat again. I'm sure Fell would, too."
+"Never picked up the habit," she said, meeting Rin’s gaze. "Hope we talk again. I think Fell would like that too."
 
 "He never told me to leave."
 
-"Yeah. People need people they don't push away." Nat closed her fist around the queen. "Trust me. I've been on this road. And I've seen where it ends. Sometimes you need the opposite perspective to hang onto yourself."
+"Yeah. People need someone they don't push away." Nat closed her fist around the queen. "Trust me. I've been on this road. And I've seen where it ends. Sometimes you need the opposite perspective to hang onto yourself."
 
 Rin pondered this, taking a long drag. "Why not."
 
-"Well, 'just Rin,'" Nat said, pushing herself up from the table and offering her human hand. "A pleasure."
+"Well, 'just Rin,'" Nat said, rising from the table and extending her human hand. "It’s been a pleasure."
 
 Rin just looked at the outstretched hand. "Not one for touch."
 
-Nat held the pose for a second longer before retracting her hand. "Neither was I."
+Nat let her hand linger a moment, then pulled it back. "Neither was I, once."
 
-She turned and walked towards the exit, pocketing the black queen as she spots Declan sitting alone, staring intently at his table.
+She turned toward the exit, slipping the black queen into her pocket. That’s when she noticed Declan, sitting alone, eyes fixed on his table.
 
 "Now there's one I haven't seen in a while."
 
@@ -187,7 +187,7 @@ Nat recognized the look. "It's okay," she said softly. "Look after yourself, Dec
 
 "Aye," he replied, his gaze already returning to the table. "Same tae ya, Tara."
 
-Nat gave his shoulder a brief pat before walking out of the bar, the weight of the queen heavy in her pocket.
+Nat gave his shoulder a gentle pat before leaving the bar, the black queen’s weight a silent anchor in her pocket.
 
 ### Game
 
