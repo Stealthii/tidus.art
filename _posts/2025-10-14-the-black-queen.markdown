@@ -15,7 +15,7 @@ _Tara Mason playing chess against Fell Gratia_
   title='Fila Brazillia - Subtle Body'
 %}
 
-Off-duty once more, Tara slipped through the airlock into Train's bar, letting the chaotic clamor wash over her and smother the silence that haunted her mind. Anxiety and a strange, persistent loneliness had become her constant companions this week. She claimed a vodka tonic from the bar, her eyes catching Fell's shape across the sea of strangers.
+The Train—a fast-moving space station up in low planetary orbit, nowadays more of a social spot than the research station it was previously prized for. Tara slipped through the airlock into the bar, letting the chaotic clamor wash over her and smother the silence that haunted her mind. Anxiety and a strange, persistent loneliness had become her constant companions this week, still on forced leave by the psychiatrist. She claimed a vodka tonic from the bar, her eyes catching Fell's shape across the sea of strangers.
 
 "Where have you been?" he asked as she approached.
 
@@ -59,7 +59,7 @@ She missed the next trap completely, pushing a pawn forward absently. She mutter
 
 Fell’s voice was a low growl. "Are you sure you want to leave your bishop hanging?"
 
-Tara’s expression was unnervingly placid. "That'd be the second one dead on my watch. So, yeah."
+Tara’s expression was unnervingly placid. "That'd be the second one dead on my watch. Makes you realize every decision burns, even when the choices seem clear."
 
 The kitsune girl looked up from the board, her golden eyes meeting Tara’s for the first time.
 
@@ -75,7 +75,7 @@ Fell smiled, his eyes dimmed as he slid the black queen forward. "Mate," he said
 
 ---
 
-A peculiar calm washed over Tara. She tugged her mask down and finished her drink in one long pull.
+A peculiar calm washed over Tara. The bar noise receded, just for a heartbeat. She tugged her mask down and finished her drink in one long pull.
 
 "That's another win," the kitsune murmured to Fell.
 
