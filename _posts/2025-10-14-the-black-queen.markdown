@@ -15,21 +15,21 @@ _Tara Mason playing chess against Fell Gratia_
   title='Fila Brazillia - Subtle Body'
 %}
 
-The Train—a fast-moving space station up in low planetary orbit, nowadays more of a social spot than the research station it was previously prized for. Tara slipped through the airlock into the bar, letting the chaotic clamor wash over her and smother the silence that haunted her mind. Anxiety and a strange, persistent loneliness had become her constant companions this week, still on forced leave by the psychiatrist. She claimed a vodka tonic from the bar, her eyes catching Fell's shape across the sea of strangers.
+The Train — a fast-moving space station up in low planetary orbit — was these days more of a social spot than the research station it was previously prized for. Tara slipped through the airlock into the bar, whose unfamiliar racket promised to drown out the now familiar silence in her head. Anxiety and a strange, persistent loneliness had become her constant companions this week, her off-duty ID clung to her belt, still on forced leave by the station psychiatrist. She claimed a vodka tonic from the bar, her eyes catching Fell's shape across the sea of strangers.
 
 "Where have you been?" he asked as she approached.
 
 "Training engineers, remember?" she returned, sliding into the seat opposite.
 
-Fell, a skull-coyote vulpkanin, brooded over his drink, the ghost-lights in his sockets casting a muted, steady glow. Beside him, a silent kitsune girl with three sweeping tails surveyed the room with tranquil, unreadable eyes.
+Fell, a skull-coyote vulpkanin, brooded over his drink, the ghost-lights in his sockets casting a muted, steady glow. Beside him, a silent kitsune girl with three sweeping tails surveyed the room with tranquil eyes.
 
 "I was never any good at engineering," Fell rumbled, picking up the thread of her comment. It wasn't a complaint, but a statement of fact.
 
-Tara took a long, bracing swallow. "It's never about being 'good' at it," she said, voice rough. "It's about choosing when everything's burning and every option is the wrong one."
+Tara took a long swallow of her drink. "It's not about being 'good' at it," she replied, clearing her throat. "It's about making a decision when everything's on fire and you have no good options."
 
-Fell shook his head, a crooked smile flickering across his muzzle. "So it's decisions, not knowledge. Got it." He nodded toward the half-set chessboard. "On that note." He started arranging the scattered pieces.
+Fell shook his head, a wry smile touching his muzzle. "Decisions, not knowledge. Right." He gestured to a half-arranged chessboard on the table. "Speaking of which." He began setting up the remaining pieces.
 
-"Oh," Tara said flatly. "I'm playing, then."
+"Oh," Tara responded, raising an eyebrow. "I guess I'm playing."
 
 Fell blinked, the lights in his sockets flickering once. "I mean... do you want to?"
 
@@ -43,7 +43,7 @@ Her own hand trembled as she reached for her queen.
 
 "You alright over there?" the kitsune asked, her voice soft as velvet.
 
-Tara stayed silent, her gaze fixed on the battlefield of black and white. Fell’s knight prowled closer, a silent threat to her back line. She castled king-side, her movements sharp with urgency.
+Tara didn't answer, her gaze fixed on the board. Fell’s knight advanced, a predator closing in on her back line. She castled king-side, in a move of desperation.
 
 Fell looked confused, the ghost-lights in his eyes brightening slightly. "Tara, you can take that back. I've got you in a triple fork. You just... ignored it."
 
@@ -53,13 +53,13 @@ Fell's concern was a weight in the air. "Do you want to talk about it?"
 
 She felt his gaze on her but refused to meet it, offering only a slight shrug. "Maybe later." she said, as she watched him take her queen.
 
-Tara’s moves turned wild, sacrificing bishop and rook for scraps of ground in a desperate, scattered attack. Fell castled queen-side, building a fortress as her army dwindled. When his rook invaded her back rank, she snatched it up, barely reacting, as if the loss meant nothing at all.
+Tara's play grew more erratic. She sacrificed a bishop and a rook for minor positional gains. Fell queen-side castled into a fortress. More of her pieces vanished from the board. When one of Fell's rooks slid onto her back rank, she captured it with her own without a second thought.
 
 She missed the next trap completely, pushing a pawn forward absently. She muttered a curse in quiet Cygni Standard.
 
 Fell’s voice was a low growl. "Are you sure you want to leave your bishop hanging?"
 
-Tara’s expression was unnervingly placid. "That'd be the second one dead on my watch. Makes you realize every decision burns, even when the choices seem clear."
+Tara’s expression was unnervingly placid. "That'd be the second one down on my watch. So, yeah."
 
 The kitsune girl looked up from the board, her golden eyes meeting Tara’s for the first time.
 
@@ -67,9 +67,9 @@ Fell leaned forward, his brow furrowed. "Are you sure this is about the game, Ta
 
 He took her last bishop, putting her in check. She gripped her king tightly, the plastic pressing against her trembling hand, and slid it wordlessly into the corner.
 
-Fell advanced his rook, challenging hers. A ghost of a smile flickered at the corners of Tara's eyes as she nudged her king forward, inviting the inevitable. Fell’s hand darted for his rook, claiming hers in a heartbeat. Tara only watched, unmoving.
+Fell advanced his rook, challenging hers. A ghost of a smile flickered at the corners of Tara's eyes as she nudged her king forward, inviting the inevitable. Fell’s hand darted for his rook, claiming hers in a heartbeat. Tara only watched, unmoving. -- TODO
 
-She knew the end had come, but still claimed his rook with her king—a final, defiant gesture.
+She knew it was over, taking his rook with her king in protest.
 
 Fell smiled, his eyes dimmed as he slid the black queen forward. "Mate," he said softly.
 
@@ -85,15 +85,15 @@ A peculiar calm washed over Tara. The bar noise receded, just for a heartbeat. S
 
 "Iris," Tara named her fallen queen. She flicked the two knights with her thumb. "Aenus. And my brother."
 
-Fell was staring at her now, his head lowered. Tara took a last look at the board, eyes resting on the piece that had sealed her fate—Fell's black queen, looming over her defeated king. "That's all I have left," she said with a hollow smile. She glanced out the reinforced window at a shadekin sticking a luminescent snail to the glass. "*The Black Queen... she'd like that-*" she whispered to herself, eyes half closed, the image of an IPC filling her mind, red eyes shining through her eyelids like radiation.
+Fell was staring at her now, his head lowered. Tara took one last look at the board, her eyes resting on the piece that had sealed her fate — Fell's black queen, looming over her defeated king. "That's all I have left," she said with a hollow smile. She glanced out the reinforced window at a shadekin sticking a luminescent snail to the glass. "*The Black Queen... she'd like that-*" she whispered to herself, eyes half closed, the image of an IPC filling her mind, red eyes shining through her eyelids like radiation.
 
-Tara turned back to the table, her expression suddenly, jarringly cheerful. "So anyway, how's your week been?"
+Tara looks up from the board, her expression suddenly, jarringly cheerful. "So anyway, how's your week been?"
 
 The other two exchanged a look of bewilderment.
 
 "Long," Fell finally replied, his voice strained. He pushed himself up from the table, swaying slightly and placing a hand on its edge to steady himself. "My energy's sapped. I think I'm going to... sleep for a bit." The lights in his eyes flickered weakly as he gave a slow nod to them both before weaving his way through the crowded bar.
 
-Tara slipped into Fell’s empty seat beside the kitsune, the silence between them thick and uncertain. She broke it with a nod at the girl’s suit—a purple-tinted twin to her own, but cut for three graceful tails. "I didn’t catch your name," she ventured.
+Tara moved into the seat he'd vacated, next to the kitsune. They sat in an awkward silence. "I didn't catch your name," Tara said, glancing at the purple-tinted suit the girl wore that matched her own, albeit tailored to accommodate three elegant tails.
 
 "...Rin," she replied quietly.
 
@@ -101,7 +101,7 @@ Tara slipped into Fell’s empty seat beside the kitsune, the silence between th
 
 Rin seemed nervous. "...Just Rin."
 
-"Just Rin," Tara echoed, nodding. "I'm..." She glanced at her mismatched hands—one living, one battered chrome. Tears threatened, but she met Rin’s gaze, unguarded. "*Nat,*" she whispered.
+"Just Rin," Tara nodded. "I'm..." She looked down at her hands, one of flesh and blood, the other a worn, scratched chrome. A flood of memories — not from the past week, but from a lifetime before, washed over her. She looked back up at Rin with glassy eyes, her expression vulnerable. "Nat."
 
 A soft smile graced Rin's lips. "Well, nice to meet you Nat."
 
@@ -109,7 +109,7 @@ It was nothing compared to the beam that shone back at her.
 
 ---
 
-"Likewise," Nat replied. "So... what brings you to the train, then?"
+"Likewise," Nat replied. "So... the Train, then?"
 
 Rin rubbed the back of her neck. "Well, I needed a break from the last shift," she sighed. "What a shit show."
 
