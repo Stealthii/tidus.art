@@ -109,33 +109,31 @@ It was nothing compared to the beam that shone back at her.
 
 ---
 
-"Likewise," Nat replied. "So, uh... what brings you to the train, then?"
+"Likewise," Nat replied. "So... what brings you to the train, then?"
 
-Rin rubbed the back of her neck. "Well, I needed a break from the last shift," Rin sighed. "What a shit show."
+Rin rubbed the back of her neck. "Well, I needed a break from the last shift," she sighed. "What a shit show."
 
-Nat nodded a little. "It's a living, some would say."
+Nat nodded a little, as she watched a courier walk over, handing Rin a small, flat parcel. "It's a living, some would say."
 
-A station courier walked over and handed Rin a small, flat parcel. She tore it open, and her placid expression was replaced by a wide, sharp grin as she revealed a brand-new, gleaming butcher's cleaver.
+She tore it open, her expression replaced by a wide, sharp grin as she revealed a brand-new, gleaming butcher's cleaver. "Ooh," Rin laughed, testing its weight.
 
-"Ooh," Rin laughed, testing its weight.
-
-Nat let out an appreciative snort. "Damn. A fan?" she asked, spinning her mechanical hand in a small circle.
+"Fan of yours?" Nat asked, spinning her mechanical hand in a small circle.
 
 Rin whispered, almost to herself, "*Nice try, Kurogane...*" She glanced back at Nat and tucked the cleaver away. "Not important."
 
 "Nothing is," Nat said, her gaze returning to the empty glass.
 
-"Importance is a variable thing," Rin added.
+"Importance is a variable thing."
 
 "It's self-derived," Nat shrugged, looking at the chessboard. "As is enjoyment. We're just pieces anyway."
 
 Rin nodded, her eyes turning to the viewport. "To be used and played."
 
-"Yep," Nat affirmed. She watched Rin stare out the window for a moment before speaking again. "Fell's a funny sort. Still can't place him."
+"Yep," Nat affirmed. She watched Rin stare out the window for a moment before speaking again. "Fell's an odd sort. Still can't place him."
 
 "Hasn't stuck a knife in my stomach yet," Rin replied, her grin returning. "So that's a good vote so far."
 
-Nat snorted. "Yeah... it's funny, this game."
+Nat snorted. "Yeah... funny, this game."
 
 "What, chess?"
 
@@ -151,7 +149,7 @@ A flush crept up Nat's neck, her cheeks warming. Rin blinked, noticing the sudde
 
 Nat's eyes narrowed, her voice dropping to a low whisper. "*I just wonder, if I'd never played, where people would be. My parents, my team... Those I...*" She trailed off, unable to finish.
 
-Rin looked away. "That's the question, isn't it?" she said quietly. "Shit advice here, but I choose not to care about much. Makes it easier to cut and run."
+Rin looked away. "That's the question, isn't it?" she said quietly. "Shit advice, but I choose not to care about much. Makes it easier to cut and run."
 
 Nat just looked at her.
 
@@ -163,9 +161,9 @@ Rin's gaze fell to her own tails, and she frowned, pulling out a cigarette and l
 
 "*I hope it was all worth it...*" she whispered to herself, her voice cracking. "*Until I'm taken too.*"
 
-Rin looked at her cigarette packet. "Got three left..." She offered one to Nat.
+Rin looked at her cigarette packet. "Got three left..." She offered one to Nat, but she shook her head, looking at the door.
 
-Nat shook her head. "Something I never got into." She looked up, meeting Rin's eyes. "I hope we chat again. I'm sure Fell would, too."
+"Something I never got into." She looked up, meeting Rin's eyes. "I hope we chat again. I'm sure Fell would, too."
 
 "He never told me to leave."
 
@@ -179,7 +177,7 @@ Rin just looked at the outstretched hand. "Not one for touch."
 
 Nat held the pose for a second longer before retracting her hand. "Neither was I."
 
-She turned and walked towards the exit, pocketing the black queen. Near the door, she spotted Declan sitting alone, staring intently at his table. She changed course and approached him.
+She turned and walked towards the exit, pocketing the black queen as she spots Declan sitting alone, staring intently at his table.
 
 "Now there's one I haven't seen in a while."
 
