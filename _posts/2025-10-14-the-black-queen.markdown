@@ -79,11 +79,11 @@ A strange sense of calm settled over Tara. She pulled down the bandana covering 
 
 "That's another win," the kitsune murmured to Fell.
 
-"Well," Tara began, her voice even. "I kept going. Let's see..." She began arranging her captured pieces in a neat line. Fell tilted his head, curious. "That's me," she said, tapping the white king. Her gaze was locked on the pieces. "Here are the CMO and the Mystagogue who quit on me," she added, her fingertips brushing against the two lost bishops. Fell's ears drooped, the light in his sockets dimming to an ember.
+"Well," Tara began, her voice even. "I kept going. Let's see..." She began arranging her captured pieces in a neat line. Fell tilted his head, curious. "That's me," she said, tapping the white king. Her gaze was locked on the pieces. "Here are the CMO and the Mystagogue who quit after I treated them badly," she added, her fingertips brushing against the two lost bishops. Fell's ears drooped, the light in his sockets dimming to an ember.
 
 "The two engineers who turned to dust in the crystal," she continued, nodding at a pair of pawns. The kitsune girl pulled her hood up, obscuring her face.
 
-"Twelve," Tara named her fallen queen. She flicked the two knights with her thumb. "Aenus. And my brother."
+"Iris," Tara named her fallen queen. She flicked the two knights with her thumb. "Aenus. And my brother."
 
 Fell was staring at her now, his head lowered. Tara took one last look at the board, her eyes resting on the piece that had sealed her fate—Fell's black queen, looming over her defeated king. "That's all I have left," she said with a hollow smile. She glanced out the reinforced window at a shadekin, sticking a luminescent snail to the glass. "*The Black Queen... she'd like that-*" she whispered to herself, eyes half closed, the image of an IPC filling her mind, red eyes shining through her eyelids like radiation.
 
