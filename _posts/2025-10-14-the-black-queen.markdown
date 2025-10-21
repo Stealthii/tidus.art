@@ -92,7 +92,7 @@ A peculiar calm washed over Tara. She tugged her mask down and drained the rest 
 
 Fell was staring at her now, his head lowered. Tara took one last look at the board, her eyes resting on the piece that had sealed her fate — Fell's black queen, looming over her defeated king. "That's all I have left," she said with a hollow smile. She glanced out the reinforced window at a shadekin sticking a luminescent snail to the glass. "*The Black Queen... she'd like that-*" she whispered to herself, eyes half closed, the image of an IPC with crimson eyes filling her mind.
 
-Tara looks up from the board, her expression suddenly, jarringly cheerful. "So anyway, how's your week been?"
+Tara turned back to face them, her expression suddenly, jarringly cheerful. "So anyway, how's your week been?"
 
 The other two exchanged a look of bewilderment.
 
