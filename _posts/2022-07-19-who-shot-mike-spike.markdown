@@ -4,9 +4,12 @@ title:  "Who shot Mike Spike"
 date:   2022-07-19 03:05:00 +0100
 categories: [story]
 tags: [story, paradise, tidus, art, in-game]
-image: /assets/images/tidus/mVXLBky_preview.webp
+image:
+  path: /assets/images/tidus/mVXLBky_preview.webp
+  alt: An illustration of two vulpkanin, one covered in blood holding a gun, the other looking on in concern.
+  lqip: data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAgAAgA0JaQAAt0AG01NQAD+rF0RWXq9EtNZFmwKhYuLKk0KFLuSuarRZZXMzdny3D+/mltkyKILyAxQAA==
 ---
-![Who shot Mike Spike](/assets/images/tidus/mVXLBky.webp)
+![Who shot Mike Spike](/assets/images/tidus/mVXLBky.webp){: lqip="data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoOABAAAgA0JaQAD5LJDBIAR2gA/uNM5rWz7WvpU8dJaKvl6j6v4KBSPSNNUbJxVJtFvElap3m9hMgR+bZ9esBYcrgchroi0lWCyrsCNGtPC78CzaKf3P2AAAA=" alt="An illustration of two vulpkanin, one covered in blood holding a gun, the other looking on in concern." }
 _Who shot Mike Spike_
 
 {%

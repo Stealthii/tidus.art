@@ -4,9 +4,13 @@ title:  "The Black Queen"
 date:   2025-10-14 15:35:00 +0100
 categories: [story]
 tags: [tara, chess, train, in-game, floof]
-image: /assets/images/tara/the_black_queen_preview.webp
+image:
+  path: /assets/images/tara/the_black_queen_preview.webp
+  alt: Illustrative art showing Tara resting her head on her cybernetic left hand, twirling a black queen chess piece after losing a game, a vodka tonic beside her.
+  lqip: data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQAAgAAgA0JaACdADc74YpbwAA/vRK84kEv3ziCTeOjYAvmZmg0FW10Z5gavxKvah27yF0fmezNn/bYcuwHTLHI8ITStkJjXf8PL803+RTv9zkYvafNQom3nCywyAA
 ---
-![Tara Chess](/assets/images/tara/the_black_queen.webp)
+![Tara Chess](/assets/images/tara/the_black_queen.webp){: lqip="data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAwAgCdASoQABAAAgA0JZgCdAYsZlagOMcD0AD+8UHa9Nvmaeksj/VkSeUPUuBm0yMU/8lNRRv61zgOwLCPOYW3849eEPWejbPyX78+CF63Hei8zt34Cz6CaEpP954dkDcX1mAvad++Jb6+K8FUIoeeD8ajTAm6MkYCBmji5b4PCJC3JUwp3SyzgJYQ+tnkjAA=
+" alt="Illustrative art showing Tara resting her head on her cybernetic left hand, twirling a black queen chess piece after losing a game, a vodka tonic beside her." }
 _Tara Mason playing chess against Fell Gratia_
 
 {%
