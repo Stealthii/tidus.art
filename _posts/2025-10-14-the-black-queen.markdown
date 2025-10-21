@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "The Black Queen [DRAFT]"
+title:  "The Black Queen"
 date:   2025-10-14 15:35:00 +0100
 categories: [story]
 tags: [tara, chess, train, in-game, floof]
+image: /assets/images/tara/the_black_queen_preview.webp
 ---
-![Tara Chess](/assets/images/tara/chess_draft.webp)
+![Tara Chess](/assets/images/tara/the_black_queen.webp)
 _Tara Mason playing chess against Fell Gratia_
 
 {%
@@ -67,7 +68,7 @@ Fell leaned forward, his brow furrowed. "Are you sure this is about the game, Ta
 
 He took her last bishop, putting her in check. She gripped her king tightly, the plastic pressing against her trembling hand, and slid it wordlessly into the corner.
 
-Fell advanced his rook, challenging hers. A ghost of a smile flickered at the corners of Tara's eyes as she nudged her king forward, inviting the inevitable. Fell’s hand darted for his rook, claiming hers in a heartbeat. Tara only watched, unmoving. -- TODO
+Fell slid his rook to challenge hers. A faint smile touched the corners of Tara's eyes. She moved her king out, baiting the trap. Before her hand had even settled back on the table, Fell’s fingers were on his rook. He captured hers instantly. She just stared.
 
 She knew it was over, taking his rook with her king in protest.
 
@@ -75,17 +76,15 @@ Fell smiled, his eyes dimmed as he slid the black queen forward. "Mate," he said
 
 ---
 
-A peculiar calm washed over Tara. The bar noise receded, just for a heartbeat. She tugged her mask down and finished her drink in one long pull.
+A peculiar calm washed over Tara. She tugged her mask down and drained the rest of her drink.
 
 "That's another win," the kitsune murmured to Fell.
 
-"Well," Tara began, her voice even. "I kept going. Let's see..." She began arranging her captured pieces in a neat line. Fell tilted his head, curious. "That's me," she said, tapping the white king. Her gaze locked on the pieces. "Here are the CMO and the Mystagogue who quit after I treated them badly," she added, her fingertips brushing against the two lost bishops. Fell's ears drooped, the light in his sockets shrinking to a faint ember.
+"Well," Tara began, her voice even. "I kept going. Let's see..." She began arranging her captured pieces in a neat line. Fell tilted his head, curious. "That's me," she said, tapping the white king. Her gaze locked on the pieces. "Here's the botanist that was first to burn alive in my chamber," she said, poking her queen. "The CMO and the Mystagogue who quit after I treated them badly," she added, her fingertips brushing against the two lost bishops. Fell's ears drooped, the light in his sockets shrinking to a faint ember.
 
-"The two engineers who turned to dust in the crystal," she continued, nodding at a pair of pawns. The kitsune girl pulled her hood up, obscuring her face.
+"The two engineers who turned to dust in the crystal," she continued, flicking the two knights with her thumb. The kitsune girl pulled her hood up, obscuring her face.
 
-"Iris," Tara named her fallen queen. She flicked the two knights with her thumb. "Aenus. And my brother."
-
-Fell was staring at her now, his head lowered. Tara took one last look at the board, her eyes resting on the piece that had sealed her fate — Fell's black queen, looming over her defeated king. "That's all I have left," she said with a hollow smile. She glanced out the reinforced window at a shadekin sticking a luminescent snail to the glass. "*The Black Queen... she'd like that-*" she whispered to herself, eyes half closed, the image of an IPC filling her mind, red eyes shining through her eyelids like radiation.
+Fell was staring at her now, his head lowered. Tara took one last look at the board, her eyes resting on the piece that had sealed her fate — Fell's black queen, looming over her defeated king. "That's all I have left," she said with a hollow smile. She glanced out the reinforced window at a shadekin sticking a luminescent snail to the glass. "*The Black Queen... she'd like that-*" she whispered to herself, eyes half closed, the image of an IPC with crimson eyes filling her mind.
 
 Tara looks up from the board, her expression suddenly, jarringly cheerful. "So anyway, how's your week been?"
 
@@ -109,11 +108,11 @@ It was nothing compared to the beam that shone back at her.
 
 ### Game
 
-This game was played on the in-game chessboard on Floof Station, aboard Train Sentipode. Dialogue has been changed where appropriate to fit novelization.
+This story is a retelling of an actual shift, where this chess game was played on the in-game board on Floof Station, aboard Train Sentipode.
 
 Here is the [chess.com analysis](https://www.chess.com/analysis/game/pgn/3hD79TDNYN/), and below is the raw PGN notation.
 
-```chess
+```
 [Site "Train Sentipode NTED-NX-569"]
 [Date "2525.10.14"]
 [White "Tara Mason"]
@@ -122,3 +121,17 @@ Here is the [chess.com analysis](https://www.chess.com/analysis/game/pgn/3hD79TD
 1.e4 Nc6 2.d4 e5 3.Bc4 Nf6 4.Nc3 d5 5.Nxd5 Bg4 {Tara groans, mutters about hitting beginners traps.} 6.f3 Bb4+ {Tara scared by mailman} 7.c3 {Tara hesitates, but ultimately accepts, "I've made my choice"} Nxd5 8.fxg4 Qh4+ 9.g3 Qe7 10.a3 Bd6 11.Bxd5 Na5 12.Nf3 {Tara drinks more, eats banana} exd4 13.Qxd4 {Tara's hand shakes a lot at this move} Nb3 14.O-O {Fell offers a reversal due to him having her in a triple fork, Tara refuses, stating you have to live with your mistakes.} Nxd4 15.Nxd4 Qe5 16.Be3 O-O-O {Tara spins her hand around} 17.Bxf7 Rdf8 18.Ne6 {Tara smiles with her eyes} Rxf7 19.Rad1 Qxe6 {Tara grimaces} 20.Bd4 Rxf1+ {Tara shrugs} 21.Rxf1 Qxe4 22.c4 {Tara mutters in Cygni, Fell asks if she wants to leave her bishop hanging, Tara says 2nd one dead on her watch, Fell asks if she's sure this is about the game} Qxd4+ 23.Kh1 Rf8 {Tara eye smiles} 24.Kg2 {Fell hesitates long time, Tara wonders why, Fell doesn't understand the play} Bc5 25.b4 Rxf1 {Fell immediately makes this move before Tara's hand has even moved back, Tara stares} 26.Kxf1 {Fell smiles, "mate"} Qf2#
 ```
 
+
+### Chess Pieces
+
+Want to know who the chess pieces represent?
+<details>
+  <summary>Of course I do</summary>
+  <ul>
+    <li>White Queen: Serenity</li>
+    <li>Bishops: Twelve, Euphoria</li>
+    <li>Knights: Lonesome, Aurelius</li>
+    <li>Rooks: Aenus, Tide</li>
+    <li>Black Queen: ...</li>
+  </ul>
+</details>
