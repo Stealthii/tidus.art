@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Scarf's Journey"
+description: Where did the scarf come from? Where is it going? Who sniffed it first?
 date:   2025-05-02 11:15:00 +0100
 categories: [story]
 tags: [story, paradise, tidus, claire, eather, art, in-game]
