@@ -2,6 +2,7 @@
 layout: post
 title:  "Tidus Kase-Koenig"
 description: Who is this young new engineer aboard the NSS Cyberiad?
+author: [StealthCT, Penny]
 date:   2022-07-07 20:07:39 +0100
 categories: [reference]
 tags: [art, tidus, bio]

@@ -2,6 +2,7 @@
 layout: post
 title:  "Who shot Mike Spike"
 description: A short story about a young vulpkanin who takes a gamble on a Syndicate job posting.
+author: [StealthCT, Penny]
 date:   2022-07-19 03:05:00 +0100
 categories: [story]
 tags: [story, paradise, tidus, art, in-game]

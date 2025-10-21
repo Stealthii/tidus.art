@@ -2,6 +2,7 @@
 layout: post
 title:  "The Black Queen"
 description: A simple game of chess leads to a dark reflection on the week's events.
+author: [StealthCT, captnkitty]
 date:   2025-10-14 15:35:00 +0100
 categories: [story]
 tags: [tara, chess, train, in-game, floof]
