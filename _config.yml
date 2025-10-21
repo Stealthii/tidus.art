@@ -216,9 +216,9 @@ exclude:
   - "*.config.js"
   - "package*.json"
   # Source files
-  - "*.flac"
-  - "*.png"
-  - "*.jpeg"
+  - "assets/music/*.flac"
+  - "assets/images/**/*.png"
+  - "assets/images/**/*.jpeg"
 
 jekyll-archives:
   enabled: [categories, tags]
