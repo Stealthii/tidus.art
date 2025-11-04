@@ -11,6 +11,13 @@ image:
   alt: In-game art showing Tara Mason's corpse lying on a cryobed, Sergeant Hercules operating on her, with Fell and Rin standing outside the door.
   lqip: data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAgAAgA0JaQAD4wQHFUsB0AA/vxYvIHWwjrZFzIE+lmohShfw9UNVBzf3xgpLpjPqsGvuZuuhwj3xSJObKH2f1QIAA==
 ---
+{%
+  include embed/audio.html
+  src='/assets/music/unatco.ogg'
+  types='mp3'
+  title='Michiel van den Bos - UNATCO'
+%}
+
 The air in central command's medbay was cold, a sterile tang mixed with the faint, coppery smell of the dead. Sergeant Hercules rubbed his eyes, his gaze fixed on the cryo-sleeper.
 
 The body of Tara Mason was a ruin. Scorched by vacuum, tattered by micro-meteors, and frozen solid. Her cybernetic arm and leg were locked in a final, spidery rigor. Standard revival had failed twice.
