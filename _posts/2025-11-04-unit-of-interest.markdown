@@ -6,6 +6,10 @@ author: [StealthCT]
 date:   2025-11-04 21:17:00 +0000
 categories: [story]
 tags: [tara, unit 7, floof]
+image:
+  path: /assets/images/tara/unit_of_interest_preview.webp
+  alt: In-game art showing Tara Mason's corpse lying on a cryobed, Sergeant Hercules operating on her, with Fell and Rin standing outside the door.
+  lqip: data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAgAAgA0JaQAD4wQHFUsB0AA/vxYvIHWwjrZFzIE+lmohShfw9UNVBzf3xgpLpjPqsGvuZuuhwj3xSJObKH2f1QIAA==
 ---
 The air in central command's medbay was cold, a sterile tang mixed with the faint, coppery smell of the dead. Sergeant Hercules rubbed his eyes, his gaze fixed on the cryo-sleeper.
 
