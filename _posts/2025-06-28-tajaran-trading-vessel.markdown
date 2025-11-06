@@ -4,7 +4,7 @@ title:  "Tajaran Trading Vessel"
 description: A shopping trip Tidus and Miu took aboard a Tajaran trading vessel.
 author: [StealthCT, DuskAri]
 date:   2025-06-28 19:37:00 +0100
-categories: [story]
+categories: [art]
 tags: [tidus, miu, tajaran, art]
 image:
   path: /assets/images/tidus/oJx7JLp_preview.webp

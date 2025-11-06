@@ -4,7 +4,7 @@ title:  "Tidus & Rhys"
 description: One cannot be whole until they find inside themselves the part that makes a person.
 author: [StealthCT, Galleta]
 date:   2025-06-06 19:58:00 +0100
-categories: [story]
+categories: [art]
 tags: [paradise, tidus, rhys, miu, art]
 image:
   path: /assets/images/tidus/p6pAzNf_preview.webp
