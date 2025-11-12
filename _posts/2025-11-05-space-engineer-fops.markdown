@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Space Engineer Fops"
-description: Here to check your piping, temperature, and maybe lend a hand or two.
+description: Here to check your pipes, ability to breathe, and maybe offer a fireman's lift.
 author: [StealthCT, Galleta]
 date:   2025-11-05 22:50:00 +0000
 categories: [art]
