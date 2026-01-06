@@ -14,16 +14,16 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tidus Herboren # the main title
+title: The Argo # the main title
 
-tagline: The life and death of Tidus Kase-Koenig # it will display as the subtitle
+tagline: Space Apartment Complex # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Art, stories, and more about Tidus Herboren, formerly Tidus Kase-Koenig.
+  Art, stories, and more aboard the Argo, a freighter drifting out in space within the Tau Ceti system.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://tidus.art"
+url: "https://stories.theargo.space"
 
 github:
   username: stealthii # change to your GitHub username
